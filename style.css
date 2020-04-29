@@ -1,0 +1,54 @@
+.heading {
+	display: flex;
+	align-items: center;
+	width: 450px;
+	padding: 5px 30px;
+	border: 1px solid black;
+}
+.heading_title {
+	margin: -10px;
+	font-weight:bold;
+}
+.heading_avatar {
+	border-radius:50%;
+	width: 100px;
+	height: 100px;
+	margin-right:50px;
+}
+.content {
+	padding: 20px;
+}
+.content_ul {
+	width: 200px;
+}
+.content_ol {
+	width: 200px;
+}
+.content_list {
+	display: flex;
+}
+.form {
+	border: 1px solid black;
+	width: 300px;
+	height: 400px ;
+	padding: 10px;
+}
+.form_name {
+	padding: 5px;
+}
+.form_gender {
+	padding: 5px;
+}
+.form_photo {
+	padding: 5px;
+}
+.form_phone {
+	padding: 5px;
+}
+.form_email {
+	padding: 5px;
+}
+.form_submit {
+	padding: 5px;
+	text-align: center;
+}
